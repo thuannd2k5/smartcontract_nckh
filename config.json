@@ -1,9 +1,9 @@
 {
   "dev": {},
   "bsctest": {
-    "AgriToken": "0x4D5d5241D1dac35249Fdf75d7A917beE26928189",
-    "Ico": "0xE91103FF306325134c3FB6f5fDDf5e421F2Bc97E",
-    "SupplyChain": "0x80bC9eeaf248938e04ef06f619F03ff408BB288B"
+    "AgriToken": "0xc85C790c385d32F0175FB46Ba702Cfb79b2C9cE2",
+    "Ico": "0x25077f115686E1e067dE4e7922830f02b45D8959",
+    "SupplyChain": "0x8eDEc712CCC130E23B93Ec63526fFf72b3351309"
   },
   "main": {}
 }

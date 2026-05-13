@@ -17,6 +17,8 @@ module.exports = {
       bsctest: {
          url: "https://data-seed-prebsc-2-s3.binance.org:8545/",
          accounts: [process.env.PRIVATE_KEY],
+         gasPrice: 20000000000, // 20 gwei
+         gas: 5000000
       },
    },
    etherscan: {
