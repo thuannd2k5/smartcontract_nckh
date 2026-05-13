@@ -1,0 +1,23 @@
+{
+   "name": "supplychain_smc",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "compile": "hardhat compile",
+      "deploy": "hardhat run scripts/deploy.ts --network",
+      "test": "hardhat test",
+      "verify": "hardhat verify --network"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "devDependencies": {
+      "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+      "dotenv": "^16.3.1",
+      "hardhat": "^2.18.3"
+   },
+   "dependencies": {
+      "@openzeppelin/contracts": "^4.9.3"
+   }
+}
